@@ -7,12 +7,12 @@ There are 3 types for passing data one ViewController to another ViewController
 
 ### Programatically
 
-![Programatically](https://github.com/kamanijasmin13/Swift-Pass-data-between-viewcontrollers/blob/master/demoImages/programatically.jpg)
+![Programatically](https://github.com/kamanijasmin13/Swift-Pass-data-between-viewcontrollers/blob/master/demoImages/programatically.jpg1)
 
 ### Segue
 
-![Segue](https://github.com/kamanijasmin13/Swift-Pass-data-between-viewcontrollers/blob/master/demoImages/Segue.jpg)
+![Segue](https://github.com/kamanijasmin13/Swift-Pass-data-between-viewcontrollers/blob/master/demoImages/Segue.jpg1)
 
 ### UserDefaults
 
-![UserDefaults](https://github.com/kamanijasmin13/Swift-Pass-data-between-viewcontrollers/blob/master/demoImages/userDefault.jpg)
+![UserDefaults](https://github.com/kamanijasmin13/Swift-Pass-data-between-viewcontrollers/blob/master/demoImages/userDefault.jpg1)
